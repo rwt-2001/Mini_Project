@@ -1,6 +1,5 @@
 .ipynb_checkpoints/
-data/
-*.png
-*.pptx
-*.jpg
 DataCollected/
+*.pptx
+*.png
+*.jpg
